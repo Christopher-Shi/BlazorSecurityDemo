@@ -261,3 +261,7 @@ __pycache__/
 *.pyc
 
 *Logs/
+.vs/BlazorSecurityDemo/v16/.suo
+BlazorClient/obj/Debug/netstandard2.1/BlazorClient.csproj.FileListAbsolute.txt
+IdentityProvider/obj/Debug/netcoreapp3.1/IdentityProvider.csproj.FileListAbsolute.txt
+WeatherApi/obj/Debug/netcoreapp3.1/WeatherApi.csproj.FileListAbsolute.txt

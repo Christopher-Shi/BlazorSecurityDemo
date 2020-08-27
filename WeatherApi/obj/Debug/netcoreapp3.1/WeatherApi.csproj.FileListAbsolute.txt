@@ -55,3 +55,4 @@ C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\staticwebasset
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.dll
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.pdb
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.genruntimeconfig.cache
+C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.csprojAssemblyReference.cache

@@ -797,3 +797,4 @@ C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\staticwebas
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\staticwebassets\BlazorClient.StaticWebAssets.xml
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.dll
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.pdb
+C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.csprojAssemblyReference.cache

@@ -243,3 +243,4 @@ C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\staticwe
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.dll
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.pdb
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.genruntimeconfig.cache
+C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.csprojAssemblyReference.cache
