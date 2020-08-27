@@ -44,7 +44,6 @@ C:\Projects\BlazorSecurityDemo\WeatherApi\bin\Debug\netcoreapp3.1\Microsoft.Iden
 C:\Projects\BlazorSecurityDemo\WeatherApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Projects\BlazorSecurityDemo\WeatherApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Projects\BlazorSecurityDemo\WeatherApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.csprojAssemblyReference.cache
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.AssemblyInfoInputs.cache
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.AssemblyInfo.cs
 C:\Projects\BlazorSecurityDemo\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.csproj.CoreCompileInputs.cache

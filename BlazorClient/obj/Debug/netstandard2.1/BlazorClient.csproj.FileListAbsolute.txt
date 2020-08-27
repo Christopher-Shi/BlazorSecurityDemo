@@ -565,7 +565,6 @@ C:\Projects\BlazorSecurityDemo\BlazorClient\bin\Debug\netstandard2.1\System.Runt
 C:\Projects\BlazorSecurityDemo\BlazorClient\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Projects\BlazorSecurityDemo\BlazorClient\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Projects\BlazorSecurityDemo\BlazorClient\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
-C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.csprojAssemblyReference.cache
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.AssemblyInfoInputs.cache
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.AssemblyInfo.cs
 C:\Projects\BlazorSecurityDemo\BlazorClient\obj\Debug\netstandard2.1\BlazorClient.csproj.CoreCompileInputs.cache

@@ -205,7 +205,6 @@ C:\Projects\BlazorSecurityDemo\IdentityProvider\bin\Debug\netcoreapp3.1\runtimes
 C:\Projects\BlazorSecurityDemo\IdentityProvider\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Projects\BlazorSecurityDemo\IdentityProvider\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Projects\BlazorSecurityDemo\IdentityProvider\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.csprojAssemblyReference.cache
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.AssemblyInfoInputs.cache
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.AssemblyInfo.cs
 C:\Projects\BlazorSecurityDemo\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.csproj.CoreCompileInputs.cache
