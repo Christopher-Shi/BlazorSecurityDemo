@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj": {}
+    "C:\\Projects\\Personal\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj": {
+    "C:\\Projects\\Personal\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj",
         "projectName": "IdentityProvider",
-        "projectPath": "C:\\Projects\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj",
-        "packagesPath": "C:\\Users\\sxy01\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BlazorSecurityDemo\\IdentityProvider\\obj\\",
+        "projectPath": "C:\\Projects\\Personal\\BlazorSecurityDemo\\IdentityProvider\\IdentityProvider.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Personal\\BlazorSecurityDemo\\IdentityProvider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sxy01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,11 +22,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/servicestack": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityServer4.AspNetIdentity": {
               "target": "Package",
@@ -92,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
